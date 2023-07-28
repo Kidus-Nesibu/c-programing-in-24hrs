@@ -1,0 +1,1 @@
+This is a a tutorial answer for hour 12 exersices in SAMS c programing in 24 hrs.
