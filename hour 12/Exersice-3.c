@@ -29,7 +29,7 @@ int main()
     {
         printf("\n");
         for(j=0;j<2; j++)
-            printf("%d,%c", list_ch[i][j]);
+            printf("%c,", list_ch[i][j]);
     }
     
     return 0;
